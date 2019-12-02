@@ -1,1 +1,4 @@
-# print-number-divisible-by-2-1-100-
+for i in range(0,101,2):
+    if i==0:
+        continue
+    print(i)
